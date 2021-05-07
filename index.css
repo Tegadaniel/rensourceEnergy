@@ -207,6 +207,7 @@ div.desc {
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
   text-align: center;
+  padding: 0px 28px;
   height: 50px;
 
 }
